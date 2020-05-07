@@ -7,4 +7,5 @@ Classifier for detecting washover in post-storm images
 - Eventually, include USGS iCoast data [Morgan et al.,](https://doi.org/10.5066/P93A9MPE)
 
 ### Code
-- CNN w/ TensorFlow via transfer learning
+- CNN w/ TensorFlow (basic, done)
+- CNN w/ TensorFlow via transfer learning (inception; to do)

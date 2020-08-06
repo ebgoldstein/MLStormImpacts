@@ -8,4 +8,4 @@ Classifier for detecting washover in post-storm images
 
 ### Code
 - CNN w/ TensorFlow (basic, done)
-- CNN w/ TensorFlow via transfer learning (inception; to do)
+- CNN w/ TensorFlow via transfer learning (Mobilenet (v1); done)

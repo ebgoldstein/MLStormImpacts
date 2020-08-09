@@ -7,6 +7,5 @@ Classifier for detecting washover in post-storm images
 - Eventually, include USGS iCoast data [Morgan et al.,](https://doi.org/10.5066/P93A9MPE)
 
 ### Code
-- basic CNN
-- mobilenet v1 (full retrain)
-- VGG16 (fine-tuned, imagenet weights)
+- mobilenet v1 (only FC tuned, imagenet weights)
+- VGG16 (only FC tuned, imagenet weights)

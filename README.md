@@ -7,5 +7,7 @@ Classifier for detecting washover in post-storm images
 - Extra data from Hurricane Michael (Testing) and Hurricane Isaias (testing)
 
 ### Code
-- mobilenet v1 (only FC tuned, imagenet weights)
+- Mobilenet v1 (only FC tuned, imagenet weights)
 - VGG16 (only FC tuned, imagenet weights)
+- Inception-Resnet (only FC tuned, imagenet weights)
+- Resnet50 V2 (only FC tuned, imagenet weights)

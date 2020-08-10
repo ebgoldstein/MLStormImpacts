@@ -11,3 +11,27 @@ Classifier for detecting washover in post-storm images
 - VGG16 (only FC tuned, imagenet weights)
 - Inception-Resnet (only FC tuned, imagenet weights)
 - Resnet50 V2 (only FC tuned, imagenet weights)
+
+
+### Directory Structure:
+
+Should look like:
+
+```{sh}
+Users/ebgoldstein/MLWashover
+                    ├── data
+                    │   ├── raw
+                    │   ├── training                  
+                    │   │    ├── washover
+                    │   │    └── nowashover
+                    │   │    │     ├── C26047788.jpg
+                    │   │    │     ├── ...
+                    │   ├── validation
+                    │   └── testing
+                    └── src
+                        ├── readme.md
+                        ├── mobilenet.ipynb
+                        ├── VGG16.ipynb
+                        ├── ...
+                        
+```

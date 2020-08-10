@@ -22,10 +22,10 @@ Users/ebgoldstein/MLWashover
                     ├── data
                     │   ├── raw
                     │   ├── training                  
-                    │   │    ├── washover
-                    │   │    └── nowashover
+                    │   │    ├── nowashover
                     │   │    │     ├── C26047788.jpg
                     │   │    │     ├── ...
+                    │   │    └── washover
                     │   ├── validation
                     │   └── testing
                     └── src

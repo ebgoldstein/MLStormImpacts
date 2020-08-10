@@ -19,6 +19,8 @@ Should look like:
 
 ```{sh}
 Users/ebgoldstein/MLWashover
+                    ├── readme.md
+                    ├── license
                     ├── data
                     │   ├── raw
                     │   ├── training                  
@@ -29,8 +31,8 @@ Users/ebgoldstein/MLWashover
                     │   ├── validation
                     │   └── testing
                     └── src
-                        ├── readme.md
-                        ├── mobilenet.ipynb
+                        ├── PictureSplitter.ipynb
+                        ├── Mobilenet.ipynb
                         ├── VGG16.ipynb
                         ├── ...
                         

@@ -26,7 +26,7 @@ Users/ebgoldstein/MLWashover
                     │   ├── training                  
                     │   │    ├── nowashover
                     │   │    │     ├── C26047788.jpg
-                    │   │    │     ├── ...
+                    │   │    │     └── ...
                     │   │    └── washover
                     │   ├── validation
                     │   └── testing
@@ -34,6 +34,6 @@ Users/ebgoldstein/MLWashover
                         ├── PictureSplitter.ipynb
                         ├── Mobilenet.ipynb
                         ├── VGG16.ipynb
-                        ├── ...
+                        └── ...
                         
 ```

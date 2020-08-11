@@ -10,7 +10,7 @@ Classifier for detecting washover in post-storm images
 - Mobilenet v1 (only FC tuned, imagenet weights)
 - VGG16 (only FC tuned, imagenet weights)
 - Inception-Resnet (only FC tuned, imagenet weights)
-- Resnet50 V2 (only FC tuned, imagenet weights)
+- 
 
 
 ### Directory Structure:

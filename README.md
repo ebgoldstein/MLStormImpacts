@@ -34,7 +34,7 @@ Users/ebgoldstein/MLWashover
                     └── src
                         ├── PictureSplitter.ipynb
                         ├── Mobilenet.ipynb
-                        ├── VGG16.ipynb
+                        ├── Inception.ipynb
                         └── ...
                         
 ```

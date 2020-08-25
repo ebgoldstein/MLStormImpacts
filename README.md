@@ -1,6 +1,8 @@
 # Washover
 Classifier for detecting washover in post-storm images
 
+![WashGradCam](https://user-images.githubusercontent.com/5330599/91177308-839e2200-e6b1-11ea-916e-e4b7e544dacc.jpg)
+
 ### Data
 - Post-storm images from NOAA (Downloaded via [`psi-collect`](https://github.com/UNCG-DAISY/psi-collect))
 - Classifications from Hurricane Florence (data [here](https://doi.org/10.6084/m9.figshare.11604192.v1))

@@ -1,4 +1,4 @@
-# Washover
+# ML Washover
 Classifier for detecting washover in post-storm images
 
 ![WashGradCam](https://user-images.githubusercontent.com/5330599/91177308-839e2200-e6b1-11ea-916e-e4b7e544dacc.jpg)

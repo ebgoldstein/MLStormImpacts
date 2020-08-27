@@ -1,5 +1,6 @@
 # ML Washover
-Classifier for detecting washover in post-storm images
+This is the dev area for creating a classifier for detecting washover in post-storm images.
+The cleaned version will live [here](https://github.com/UNCG-DAISY/WashoverML).
 
 ![WashGradCam](https://user-images.githubusercontent.com/5330599/91177308-839e2200-e6b1-11ea-916e-e4b7e544dacc.jpg)
 

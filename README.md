@@ -10,11 +10,6 @@ The cleaned version will live [here](https://github.com/UNCG-DAISY/WashoverML).
 - Extra data from Hurricane Michael (Testing)
 
 ### Code 
-_(all models -- only FC layers tuned, imagenet weights)_
-- Mobilenet V1
-- Mobilenet V2
-- Inception-Resnet
-- Inception V3
 
 
 ### Directory Structure:
